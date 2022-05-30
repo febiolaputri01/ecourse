@@ -4,7 +4,7 @@
 <head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<meta charset="utf-8" />
-	<title>Admin Web Ujian Online</title>
+	<title>Admin website Ujian Online</title>
 
 	<meta name="description" content="top menu &amp; navigation" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
